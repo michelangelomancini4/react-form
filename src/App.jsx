@@ -8,7 +8,7 @@ function App() {
   return (
     <>
 
-      <h1>Probabili formazioni Champions League 18 Febbraio</h1>
+      <h1>Squadre Champions League 18 Febbraio</h1>
 
       <ArticlesList />
 
